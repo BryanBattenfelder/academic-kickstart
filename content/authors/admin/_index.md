@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Bryan Battenfelder is is an associate at PAG
+Bryan Battenfelder is an associate at PAG
