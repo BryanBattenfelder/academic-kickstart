@@ -14,8 +14,8 @@ role: Associate at PAG
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon University
-  url: "https://www.cmu.edu/"
+- name: PAG
+  url: "https://www.pag.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include robotics and machine learning
