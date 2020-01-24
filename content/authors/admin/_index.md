@@ -15,7 +15,7 @@ role: Associate at PAG
 # Organizations/Affiliations
 organizations:
 - name: PAG
-  url: "https://www.pag.edu/"
+  url: "https://www.pag.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include robotics and machine learning
