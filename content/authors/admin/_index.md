@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BS in Physics
+  - course: BS Physics
     institution: Carnegie Mellon University
-    year: 2012
+    year: 2003
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
